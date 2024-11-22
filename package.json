@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/repellat-minima-non-vitae",
-  "version": "8.15.191",
+  "version": "8.15.192",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -491,5 +491,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/repellat-minima-non-vitae/issues"
   },
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.2"
 }
